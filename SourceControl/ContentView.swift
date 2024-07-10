@@ -16,7 +16,9 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Source Control")
             
-           
+            Button("Tap in"){
+                
+            }
         }
         .padding()
     }
