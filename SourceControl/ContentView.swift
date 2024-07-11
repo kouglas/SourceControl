@@ -19,6 +19,7 @@ struct ContentView: View {
             Button("Tap in"){
                 
             }
+            Rectangle()
         }
         .padding()
     }
