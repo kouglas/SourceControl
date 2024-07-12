@@ -16,7 +16,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Source Control")
             
-            Button("subscribe now "){
+            Button("subscribe now"){
                 
             }
             Rectangle()
