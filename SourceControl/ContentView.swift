@@ -14,7 +14,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Source Control v1 ")
+            Text("Source Control")
             
             Button("subscribe now"){
                 
