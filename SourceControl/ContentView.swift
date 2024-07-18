@@ -19,6 +19,7 @@ struct ContentView: View {
                                 .imageScale(.large)
                                 .foregroundStyle(.tint)
                             Text("Search source control docs!!!")
+                            Text("New text")
                             
                             Button("click me"){
                                 
